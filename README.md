@@ -1,7 +1,9 @@
 # TG·Push（屎山·AI版）
 
+> 该项目仅为思路，欢迎各位大佬重构或修改。
+
 Telegram 消息转发推送工具。监听私聊/群聊/频道消息，按关键词过滤后推送到目标服务。
-> 欢迎各位大佬重构或修改。
+
 
 ![TG·Push](https://img.shields.io/badge/version-v3.1-blue)
 ![Node.js](https://img.shields.io/badge/node-%3E%3D18.0.0-green)
@@ -36,15 +38,15 @@ Telegram 消息转发推送工具。监听私聊/群聊/频道消息，按关键
 
 ## 功能特性
 
-- 🔌 **MTProto 登录** — 使用 API ID/HASH 登录 Telegram 账号（非 Bot Token）
-- 🌐 **SOCKS5/HTTP 代理** — 支持 SOCKS5 和 HTTP 代理连接 Telegram API
-- 🎧 **多源监听** — 同时监听私聊、群聊、频道、Bot 消息
-- 🔍 **智能过滤** — 关键词包含/排除、正则匹配、消息类型过滤
-- 🚀 **多方式推送** — 支持 Webhook、自定义 API 推送
-- 📊 **实时日志** — SSE 实时推送消息流到 Web UI
-- 💾 **Session 持久化** — 重启免重新登录
-- 🔄 **自动重连** — 网络中断后自动恢复连接
-- 🌙 **环境区分** — 支持开发/生产环境日志级别控制
+- **MTProto 登录** — 使用 API ID/HASH 登录 Telegram 账号（非 Bot Token）
+- **SOCKS5/HTTP 代理** — 支持 SOCKS5 和 HTTP 代理连接 Telegram API
+- **多源监听** — 同时监听私聊、群聊、频道、Bot 消息
+- **智能过滤** — 关键词包含/排除、正则匹配、消息类型过滤
+- **多方式推送** — 支持 Webhook、自定义 API 推送
+- **实时日志** — SSE 实时推送消息流到 Web UI
+- **Session 持久化** — 重启免重新登录
+- **自动重连** — 网络中断后自动恢复连接
+- **环境区分** — 支持开发/生产环境日志级别控制
 
 ---
 

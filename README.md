@@ -8,6 +8,16 @@ Telegram 消息转发推送工具。监听私聊/群聊/频道消息，按关键
 ![License](https://img.shields.io/badge/license-MIT-orange)
 
 ---
+## 预览
+
+![主界面](https://github.com/ikoude/TG-PUSH/blob/main/screenshots/page-2026-05-05T16-42-12-978Z.png?raw=true)
+![主界面](https://github.com/ikoude/TG-PUSH/blob/main/screenshots/page-2026-05-05T16-43-12-006Z.png?raw=true)
+![账户管理](https://github.com/ikoude/TG-PUSH/blob/main/screenshots/page-2026-05-05T16-43-38-405Z.png?raw=true)
+![主界面](https://github.com/ikoude/TG-PUSH/blob/main/screenshots/page-2026-05-05T16-44-36-399Z.png?raw=true)
+![webhook](https://github.com/ikoude/TG-PUSH/blob/main/screenshots/page-2026-05-05T16-45-12-059Z.png?raw=true)
+![路由管理](https://github.com/ikoude/TG-PUSH/blob/main/screenshots/page-2026-05-05T16-45-58-403Z.png?raw=true)
+
+---
 
 ## 目录
 

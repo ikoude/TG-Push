@@ -1,0 +1,31 @@
+{
+  "telegram": {
+    "apiId": 0,
+    "apiHash": ""
+  },
+  "filters": {
+    "keywords": [],
+    "excludeKeywords": [],
+    "regex": [],
+    "caseSensitive": false,
+    "mediaTypes": ["text", "photo", "document"],
+    "ignoreService": true,
+    "ignoreForwarded": false,
+    "ignoreReplies": false,
+    "minLength": 0,
+    "maxLength": 4096
+  },
+  "accounts": [],
+  "forwardServers": [],
+  "inboundWebhooks": [],
+  "ui": {
+    "autoScroll": true,
+    "showFiltered": true,
+    "maxLogEntries": 500,
+    "theme": "light",
+    "themeColor": "indigo",
+    "sidebarExpanded": true,
+    "autoScrollLogs": true,
+    "showFilteredMessages": false
+  }
+}

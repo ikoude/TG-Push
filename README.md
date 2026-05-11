@@ -419,6 +419,12 @@ npm run check:all
 
 ---
 
+## 项目热度
+
+[![Stargazers over time](https://starchart.cc/cmliu/edgetunnel.svg?variant=adaptive)]([https://starchart.cc/cmliu/edgetunnel](https://github.com/ikoude/tg-push))
+
+---
+
 ## 许可证
 
 MIT License - 详见 [LICENSE](LICENSE) 文件

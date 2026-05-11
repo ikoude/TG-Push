@@ -419,9 +419,15 @@ npm run check:all
 
 ---
 
-## 项目热度
+## Star History
 
-[![Stargazers over time](https://starchart.cc/cmliu/edgetunnel.svg?variant=adaptive)]([https://starchart.cc/cmliu/edgetunnel](https://github.com/ikoude/tg-push))
+<a href="https://www.star-history.com/?repos=ikoude%2Ftg-push&type=date&logscale=&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ikoude/tg-push&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ikoude/tg-push&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ikoude/tg-push&type=date&legend=top-left" />
+ </picture>
+</a>
 
 ---
 
